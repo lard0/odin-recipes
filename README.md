@@ -1,7 +1,10 @@
 # odin-recipes
 First odin project website
 
-Pre-build
-This website will display a few recipes with working links and images.
+Current:
+3 test recipes so far. 
+Edit to reflect real recipes
 
-Post-build
+Future
+Style
+Recipe addition flow
